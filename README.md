@@ -5,7 +5,7 @@
 >Aplicação criada para fins expositivos, produto fictício, utilizado apenas para estudo.
 
 [![SCREEN](https://img.shields.io/badge/Preview_FullPage%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=6aa4f2)](https://github.com/VitorSoer/OMDb-API-Filter-Example/blob/master/public/assets/OMDb-preview.png)
-[![DEMO](https://img.shields.io/badge/Veja_a_Demo_Aqui%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=FF0080)](https://hyper-chat-project.web.app/)
+[![DEMO](https://img.shields.io/badge/Veja_a_Demo_Aqui%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=FF0080)](https://vitorsoer.github.io/OMDb-API-Filter-Example/)
 [![REPOSITÓRIOS](https://img.shields.io/badge/Veja_também...%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://github.com/VitorSoer?tab=repositories)
 
 #
