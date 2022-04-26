@@ -43,7 +43,7 @@ function Container() {
 
   useEffect(() => {
     searchMovies("Spider man");
-  }, []);
+  }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   const changePage = ({ selected }) => {
     setPageNumber(selected);
